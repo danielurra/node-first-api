@@ -1,7 +1,7 @@
 # Node.js first API
 Node.js in the back end for our first API
-## Index.js
-![index-js](https://github.com/danielurra/node-first-api/assets/51704179/b59cda2a-d8db-4c62-be3a-086699bed8f9)<br>
+## Main JavaScript file index.js
+![index-js-file](https://github.com/danielurra/node-first-api/assets/51704179/0bc372fa-937b-4f37-9740-aa4e85d2e993)<br>
 ## JSON file pretending to be our Data Base
 ![jason-file](https://github.com/danielurra/node-first-api/assets/51704179/78778941-db6d-4833-b917-af68a0dd844f)<br>
 ## Package.json file
