@@ -1,4 +1,4 @@
-# Node,js first API
+# Node.js first API
 Node.js in the back end for our first API
 ## Index.js
 ![index-js](https://github.com/danielurra/node-first-api/assets/51704179/b59cda2a-d8db-4c62-be3a-086699bed8f9)<br>
