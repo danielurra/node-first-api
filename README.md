@@ -1,6 +1,5 @@
-# Node.js first API
+# JavaScript Backend with Node.js first API
 ![rest-api-node-Dani](https://github.com/danielurra/node-first-api/assets/51704179/241ac4b9-2fcc-48f1-a99b-8c3e3f7c4423)<br>
-
 Node.js in the back end for our first API
 ## Main JavaScript file index.js
 ![index-js-file](https://github.com/danielurra/node-first-api/assets/51704179/0bc372fa-937b-4f37-9740-aa4e85d2e993)<br>
