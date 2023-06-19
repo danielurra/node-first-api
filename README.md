@@ -11,7 +11,7 @@
 ## JSON file pretending to be our Data Base
 ![jason-file](https://github.com/danielurra/node-first-api/assets/51704179/78778941-db6d-4833-b917-af68a0dd844f)<br>
 ## Package.json file
-This file is automatically created when you initalize your project by using the following command:
+The `package.json` file is automatically created when you initalize your project by using the following command:
 ```bash
 npm init
 ```
