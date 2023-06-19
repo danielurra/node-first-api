@@ -14,7 +14,7 @@
 ![package-json](https://github.com/danielurra/node-first-api/assets/51704179/ddabbd88-3ad6-4653-86c1-9a1fb5c520ef)<br>
 ## Server response - JSON data
 I had to install one browser extension to get the Json data properly formatted.<br>
-For Google Chrome I did install the following extension:<br>
+For Google Chrome I did install the extension available at:<br>
 https://chrome.google.com/webstore/detail/json-viewer<br>
 ![response-json](https://github.com/danielurra/node-first-api/assets/51704179/140e2620-d957-434c-a328-ab67c91e14ae)<br>
 
