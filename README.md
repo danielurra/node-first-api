@@ -8,6 +8,30 @@
 ![rest-api-model](https://github.com/danielurra/node-first-api/assets/51704179/5bd63cf9-26ac-4170-983e-ed52a6a70111)<br>
 ## Main JavaScript file index.js
 ![index-js-file](https://github.com/danielurra/node-first-api/assets/51704179/0bc372fa-937b-4f37-9740-aa4e85d2e993)<br>
+## Grab the code
+```javascript
+const express = require ('express') ;
+// Reading a file (in Node.js) is accomplished asynchronously
+// by using the file system (fs) module
+const fs = require ('fs') ;
+
+const app = express();
+
+app.get ('/pending_tasks', (req, res) => {
+
+    fs.readFile(__dirname + '/' + "ptasks.json", 'utf-8', (err, data) => {
+        if (err){
+           return console.log("err")
+        }
+        res.send(data)
+    } )
+})
+
+app.listen(3033, () => {
+    console.log("Web server is running on Port 3033 ");
+
+})
+```
 ## JSON file pretending to be our Data Base
 ![jason-file](https://github.com/danielurra/node-first-api/assets/51704179/78778941-db6d-4833-b917-af68a0dd844f)<br>
 ## Package.json file
