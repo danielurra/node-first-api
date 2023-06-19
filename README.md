@@ -15,5 +15,3 @@
 ## Consuming the API
 ![response-json](https://github.com/danielurra/node-first-api/assets/51704179/140e2620-d957-434c-a328-ab67c91e14ae)<br>
 
-![firt-api](https://github.com/danielurra/node-first-api/assets/51704179/6968ee8e-74c3-470d-9199-2cc29a2873cc)<br>
-
