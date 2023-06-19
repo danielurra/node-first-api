@@ -34,6 +34,28 @@ app.listen(3033, () => {
 ```
 ## JSON file pretending to be our Data Base
 ![jason-file](https://github.com/danielurra/node-first-api/assets/51704179/78778941-db6d-4833-b917-af68a0dd844f)<br>
+## Grab the code
+```json
+{
+    "pend-task#1":{
+        "task-id" : 1,
+        "task-desc" : "Take code lessons"
+    },
+    "pend-task#2":{
+        "task-id" : 2,
+        "task-desc" : "Go to the gym"
+    },
+    "pend-task#3":{
+        "task-id" : 3,
+        "task-desc" : "do homework"
+    },
+    "pend-task#4":{
+        "task-id" : 4,
+        "task-desc" : "Fix the fence"
+    }
+}
+
+```
 ## Package.json file
 The `package.json` file is automatically created when you initalize your project by using the following command:
 ```bash
