@@ -1,4 +1,5 @@
-# JavaScript Backend with Node.js first API
+# JavaScript Backend
+## Node.js + Express.js to build our first API
 ![rest-api-node-plus-express_js-Dani](https://github.com/danielurra/node-first-api/assets/51704179/36235412-fc5a-48b6-83b9-e1acb697033f)<br>
 * **Node.js** in the back end for our first API.
 * **Express.js** is the `web framework` that makes Node.js easy to use.
