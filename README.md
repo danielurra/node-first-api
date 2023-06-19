@@ -4,6 +4,7 @@
 * **Node.js** is a runtime built on Chrome's V8 JavaScript engine, it allows us to run JavaScript outside the browser.
 * **Express.js** is the `web framework` that makes Node.js easy to use.
 * **API** (Application Programming Interface), It can be thought of as a contract of service between two applications.
+![rest-api-model](https://github.com/danielurra/node-first-api/assets/51704179/5bd63cf9-26ac-4170-983e-ed52a6a70111)<br>
 ## Main JavaScript file index.js
 ![index-js-file](https://github.com/danielurra/node-first-api/assets/51704179/0bc372fa-937b-4f37-9740-aa4e85d2e993)<br>
 ## JSON file pretending to be our Data Base
