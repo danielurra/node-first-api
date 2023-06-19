@@ -1,8 +1,9 @@
 # JavaScript Backend
 ## Node.js + Express.js to build our first API
 ![rest-api-node-plus-express_js-Dani](https://github.com/danielurra/node-first-api/assets/51704179/36235412-fc5a-48b6-83b9-e1acb697033f)<br>
-* **Node.js** in the back end for our first API.
+* **Node.js** is a runtime built on Chrome's V8 JavaScript engine, it allows us to run JavaScript outside the browser.
 * **Express.js** is the `web framework` that makes Node.js easy to use.
+* **API** Application Programming Interface, can be thought of as a contract of service between two applications.
 ## Main JavaScript file index.js
 ![index-js-file](https://github.com/danielurra/node-first-api/assets/51704179/0bc372fa-937b-4f37-9740-aa4e85d2e993)<br>
 ## JSON file pretending to be our Data Base
