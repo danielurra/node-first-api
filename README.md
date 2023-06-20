@@ -2,7 +2,8 @@
 ## Node.js + Express.js to build our first API
 ![rest-api-node-plus-express_js-Dani](https://github.com/danielurra/node-first-api/assets/51704179/36235412-fc5a-48b6-83b9-e1acb697033f)<br>
 * **Node.js** is a runtime built on Chrome's V8 JavaScript engine, it allows us to run JavaScript outside the browser.
-* **Express.js** is the `web framework` that makes Node.js easy to use.
+* **Express.js** is a `minimal framework` especially useful for writing RESTful API code.<br>
+  **Express.js** offers a broad set of APIs, methods, and middleware that modern web applications need.<br>
 * **API** (Application Programming Interface), It can be thought of as a contract of service between two applications.<br>
 
 ![rest-api-model](https://github.com/danielurra/node-first-api/assets/51704179/5bd63cf9-26ac-4170-983e-ed52a6a70111)<br>
