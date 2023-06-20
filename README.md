@@ -18,7 +18,7 @@ const fs = require ('fs') ;
 const app = express();
 // here you create an Express application instance
 app.get ('/pending_tasks', (req, res) => {
-
+// here you tell the app that for a GET request the URL /pending_tasks, execute the given function.
     fs.readFile(__dirname + '/' + "ptasks.json", 'utf-8', (err, data) => {
         if (err){
            return console.log("err")
