@@ -84,7 +84,8 @@ My Mac mini is acting as my web/db server and from any other computer in my LAN 
 ## Google chrome developer tools - Response
 ![chrome-dev-tools](https://github.com/danielurra/node-first-api/assets/51704179/058659af-7649-462a-a583-58fad2dd49a1)<br>
 ## Google chrome developer tools - Preview
-![chrome-dev-tools-preview](https://github.com/danielurra/node-first-api/assets/51704179/8afece0a-9109-4cbe-92a7-77f43a06ff6e)
+![chrome-dev-tools-preview](https://github.com/danielurra/node-first-api/assets/51704179/57f84472-08b6-477d-a37d-a0181719df88)<br>
+
 
 
 
