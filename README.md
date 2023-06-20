@@ -13,10 +13,11 @@
 ![index-js-file](https://github.com/danielurra/node-first-api/assets/51704179/0bc372fa-937b-4f37-9740-aa4e85d2e993)<br>
 ## Grab the code
 ```javascript
-const express = require ('express') ;
+const express = require ('express');
+const fs = require ('fs');
 // Reading a file (in Node.js) is accomplished asynchronously
 // by using the file system (fs) module
-const fs = require ('fs') ;
+
 
 const app = express();
 // here you create an Express application instance
