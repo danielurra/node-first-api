@@ -78,4 +78,13 @@ I had to install one browser extension to get the Json data properly formatted.<
 For Google Chrome I did install the extension available at:<br>
 https://chrome.google.com/webstore/detail/json-viewer<br>
 ![response-json](https://github.com/danielurra/node-first-api/assets/51704179/140e2620-d957-434c-a328-ab67c91e14ae)<br>
+## Google chrome developer tools - HTTP method GET
+My Mac mini is acting as my web/db server and from any other computer in my LAN I can test my API<br>
+![chrome-dev-tools-method-get](https://github.com/danielurra/node-first-api/assets/51704179/47c10258-8996-4785-a35e-6fbb76104a43)<br>
+## Google chrome developer tools - Response
+![chrome-dev-tools](https://github.com/danielurra/node-first-api/assets/51704179/058659af-7649-462a-a583-58fad2dd49a1)<br>
+## Google chrome developer tools - Preview
+![chrome-dev-tools-preview](https://github.com/danielurra/node-first-api/assets/51704179/8afece0a-9109-4cbe-92a7-77f43a06ff6e)
+
+
 
