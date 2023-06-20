@@ -7,6 +7,7 @@
   **Express.js** helps developers to eliminates a lot of boilerplate-type code from their application code.<br>
 * **API** (Application Programming Interface), It can be thought of as a contract of service between two applications.<br>
 * **REST** stands for `Representational State Transfer` it's a model through which an app can access, create, modify, or delete resources<br>
+  **REST** extends the hypertext concepts with a clearly defined and standardized model for retrieving, transferring, and manipulating the state of complex objects across a network.<br>
 
 ![rest-api-model](https://github.com/danielurra/node-first-api/assets/51704179/5bd63cf9-26ac-4170-983e-ed52a6a70111)<br>
 **REST** is based on HTTP methods and URL structure.
