@@ -82,6 +82,8 @@ I had to install one browser extension to get the Json data properly formatted.<
 For Google Chrome I did install the extension available at:<br>
 https://chrome.google.com/webstore/detail/json-viewer<br>
 ![response-json](https://github.com/danielurra/node-first-api/assets/51704179/140e2620-d957-434c-a328-ab67c91e14ae)<br>
+![http-method-GET-protocol-endpoint](https://github.com/danielurra/node-first-api/assets/51704179/15ee5b13-48e0-420d-bafc-55679f97897b)<br>
+
 ## Google chrome developer tools - HTTP method GET
 My Mac is now acting as my web/db server, knowing its `IP address` and from any other computer in my home network I can test my API<br>
 ![chrome-dev-tools-method-get](https://github.com/danielurra/node-first-api/assets/51704179/de9a4a6e-c231-469d-b116-be10ba5030ca)<br>
