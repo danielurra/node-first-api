@@ -8,9 +8,9 @@
 * **API** (Application Programming Interface), It can be thought of as a contract of service between two applications.<br>
 * **REST** stands for `Representational State Transfer` it's a model through which an app can access, create, modify, or delete resources<br>
   **REST** extends the hypertext concepts with a clearly defined and standardized model for retrieving, transferring, and manipulating the state of complex objects across a network.<br>
-  If you'd like to learn more about REST API and how to build one I do recommend you to take a look at the following blog:
-  https://medium.com/nerd-for-tech/designing-a-rest-api-3a070398750f<br>
-  **Dick Dowdell** has created such a fantastic article.<br>
+If you'd like to learn more about REST API and how to build one I do recommend you to take a look at the following blog:
+https://medium.com/nerd-for-tech/designing-a-rest-api-3a070398750f<br>
+**Dick Dowdell** has created such a fantastic article.<br>
 
 ![rest-api-model](https://github.com/danielurra/node-first-api/assets/51704179/5bd63cf9-26ac-4170-983e-ed52a6a70111)<br>
 **REST** is based on HTTP methods and URL structure.
