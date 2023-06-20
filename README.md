@@ -15,9 +15,7 @@
 ```javascript
 const express = require ('express');
 const fs = require ('fs');
-// Reading a file (in Node.js) is accomplished asynchronously
-// by using the file system (fs) module
-
+// Reading a file (in Node.js) is accomplished asynchronously by using the file system (fs) module
 
 const app = express();
 // here you create an Express application instance
