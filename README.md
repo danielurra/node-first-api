@@ -88,7 +88,7 @@ The `package.json` file will be automatically created after a short interactive 
 ```bash
 npm install express --save
 ```
-Will not only install the package it will also add the following to the package.json file:<br>
+The above command will not only install the package it will also add the following to the package.json file:<br>
 ```bash
 "dependencies": {
  "express": "^3.4.11"
@@ -97,7 +97,7 @@ Will not only install the package it will also add the following to the package.
 ```bash
 npm install jest --save-dev
 ```
-Will not only install the package it will also add the following to the package.json file:<br>
+The above command will not only install the package it will also add the following to the package.json file:<br>
 ```bash
 "devDependencies": {
  "jest": "^24.9.0"
