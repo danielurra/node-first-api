@@ -4,6 +4,7 @@
 * **Node.js** is a runtime built on Google Chrome's V8 JavaScript engine.<br>
   **Node.js** is a server-side scripting language that allows us to run JavaScript outside the browser.<br>
   **Node.js** uses `JavaScript’s asynchronous programming paradigm`<br>
+  **Node.js** uses an event-driven, non-blocking I/O model, allowing it to handle multiple requests without getting blocked.<br>
   **Node.js** is single-threaded, instead of separate processes and threads, it uses asynchronous, event-driven I/O operations.<br>
   **Node.js** can achieve high output via single-threaded event loop and non-blocking I/O.<br>
   **Node.js** is known for its efficiency and scalability, it can handle a large number of concurrent connections.<br>
