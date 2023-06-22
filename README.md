@@ -78,7 +78,10 @@ For educational purposes only we are making use of a simple file<br>
 
 ```
 ## Package.json file
-The `package.json` file is automatically created when you initalize your project by using the following command:
+The `package.json` file will be automatically created after a short interactive tool that will ask you to enter info related to the App you're creating, things like:
+* Author's Name
+* App version
+The interactive tool is launched when you initalize your project by using the following command:
 ```bash
 npm init
 ```
