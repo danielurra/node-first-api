@@ -81,7 +81,7 @@ The `package.json` file will be automatically created after a short interactive 
 * Author's Name
 * App version
 * Type of Licence
-* Define **Dependencies**, that are other software needed to properly work
+* Define **Dependencies** (other software needed for the App to properly work)
 * Define `custom commands or scripts` these scripts can be run by using NPM (npm run Blablabla)
 * Etc.
 
