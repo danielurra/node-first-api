@@ -22,7 +22,7 @@ https://medium.com/nerd-for-tech/designing-a-rest-api-3a070398750f<br>
 **REST** is based on HTTP methods and URL structure.
 ## Main JavaScript file index.js
 ![index-js-file](https://github.com/danielurra/node-first-api/assets/51704179/0bc372fa-937b-4f37-9740-aa4e85d2e993)<br>
-## Run your node app
+## Run your "node" app
 ```bash
 node ./index.js
 ```
