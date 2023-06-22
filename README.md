@@ -77,7 +77,7 @@ We never use a simple file in a **real world** scenario, we use Databases instea
 
 ```
 ## Package.json file
-The `package.json` file will be automatically created after a short interactive tool that will ask you to enter info related to the App you're creating, things like:
+The `package.json` file will be automatically created after a short interactive tool that will ask you to enter info related to the App you're creating, things like:<br>
 * Author's Name
 * App version
 * Type of Licence
