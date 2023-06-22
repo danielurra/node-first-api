@@ -82,7 +82,6 @@ The `package.json` file will be automatically created after a short interactive 
 * App version
 * Type of Licence
 * Etc.
-<br>
 The interactive tool is launched when you initalize your project by using the following command:<br>
 ```bash
 npm init
