@@ -51,7 +51,7 @@ app.listen(3033, () => {
 
 })
 ```
-## JSON file pretending to be our Data Base
+## JSON file pretending to be our Database
 We never use a simple file in a **real world** scenario, we use Databases instead, here and for educational purposes only we are making use of a simple file<br>
 ![jason-file](https://github.com/danielurra/node-first-api/assets/51704179/78778941-db6d-4833-b917-af68a0dd844f)<br>
 ## Grab the code
