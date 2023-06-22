@@ -90,7 +90,7 @@ See examples below:<br>
 ```bash
 npm install express --save
 ```
-The above command will not only install the package it will also add the following to the package.json file:<br>
+The above command will not only install the package it will also add the following to the `package.json` file:<br>
 ```bash
 "dependencies": {
  "express": "^3.4.11"
@@ -99,7 +99,7 @@ The above command will not only install the package it will also add the followi
 ```bash
 npm install jest --save-dev
 ```
-The above command will not only install the package it will also add the following to the package.json file:<br>
+The above command will not only install the package it will also add the following to the `package.json` file:<br>
 ```bash
 "devDependencies": {
  "jest": "^24.9.0"
