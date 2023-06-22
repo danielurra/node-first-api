@@ -88,12 +88,21 @@ The `package.json` file will be automatically created after a short interactive 
 ```bash
 npm install express --save
 ```
-adds the following to the package.json file:<br>
+Will not only install the package it will also add the following to the package.json file:<br>
 ```bash
 "dependencies": {
  "express": "^3.4.11"
  }
  ```
+```bash
+npm install jest --save-dev
+```
+Will not only install the package it will also add the following to the package.json file:<br>
+```bash
+"devDependencies": {
+ "jest": "^24.9.0"
+ }
+```
   
 The interactive tool is launched when you initalize your project by using the following command:<br>
 ```bash
