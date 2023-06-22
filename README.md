@@ -3,7 +3,7 @@
 ## Let's build our first API
 * **Node.js** is a runtime built on Chrome's V8 JavaScript engine, it allows us to run JavaScript outside the browser.<br>
 * **Node.js** is a server-side scripting language based on Google’s V8 Javascript engine.<br>
-* **Node js** is a single-threaded and highly scalable system. Instead of separate processes and threads, it uses asynchronous, event-driven I/O operations.<br>
+* **Node js** is a single-threaded, instead of separate processes and threads, it uses asynchronous, event-driven I/O operations.<br>
 * **Node js** can achieve high output via single-threaded event loop and non-blocking I/O.<br>
 * **Express.js** is a `minimal framework` especially useful for writing RESTful API code.<br>
   **Express.js** offers a broad set of APIs, HTTP methods, and middleware that modern web applications need.<br>
