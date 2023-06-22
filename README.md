@@ -106,7 +106,7 @@ The above command will not only install the package it will also add the followi
  }
 ```
   
-The interactive tool is launched when you initalize your project by using the following command:<br>
+The interactive tool is launched when you **initalize your project** by using the following command:<br>
 ```bash
 npm init
 ```
