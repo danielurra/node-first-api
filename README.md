@@ -5,6 +5,7 @@
   **Node.js** is a server-side scripting language that allows us to run JavaScript outside the browser.<br>
   **Node.js** is single-threaded, instead of separate processes and threads, it uses asynchronous, event-driven I/O operations.<br>
   **Node.js** can achieve high output via single-threaded event loop and non-blocking I/O.<br>
+  **Node.js** is known for its efficiency and scalability, it can handle a large number of concurrent connections.<br>
 * **Express.js** is a `minimal framework` especially useful for writing RESTful API code.<br>
   **Express.js** offers a broad set of APIs, HTTP methods, and middleware that modern web applications need.<br>
   **Express.js** helps developers to eliminates a lot of boilerplate-type code from their application code.<br>
