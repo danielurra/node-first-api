@@ -8,6 +8,7 @@
   **Node.js** is single-threaded, instead of separate processes and threads, it uses asynchronous, event-driven I/O operations.<br>
   **Node.js** is known for its efficiency and scalability, it can handle a large number of concurrent connections.<br>
   **Node.js** is ideal for apps that require real-time interactions, such as chat, collaboration, and games.<br>
+  **Node.js** is a multitasker that can juggle many operations at once, thanks to its non-blocking I/O magic.<br>
 * **Express.js** is a `minimal framework` especially useful for writing RESTful API code.<br>
   **Express.js** offers a broad set of APIs, HTTP methods, and middleware that modern web applications need.<br>
   **Express.js** helps developers to eliminates a lot of boilerplate-type code from their application code.<br>
