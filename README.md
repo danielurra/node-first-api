@@ -81,6 +81,8 @@ The `package.json` file will be automatically created after a short interactive 
 * Author's Name
 * App version
 * Type of Licence
+* Define Dependencies, that are other software needed to properly work (use --save everytime you install something to automatically add an entry here)
+* Define custom commands or scripts (npm run Blablabla)
 * Etc.
   
 The interactive tool is launched when you initalize your project by using the following command:<br>
