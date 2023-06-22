@@ -82,9 +82,11 @@ The `package.json` file will be automatically created after a short interactive 
 * App version
 * Type of Licence
 * Define **Dependencies**, that are other software needed to properly work (use --save everytime you install something to automatically add an entry here)
-* Define `custom commands or scripts` these scripts can be ran by using NPM (npm run Blablabla)
+* Define `custom commands or scripts` these scripts can be run by using NPM (npm run Blablabla)
 * Etc.
 
+## Dependencies & devDependencies
+See examples below:<br>
 ```bash
 npm install express --save
 ```
