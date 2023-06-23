@@ -24,6 +24,10 @@ https://medium.com/nerd-for-tech/designing-a-rest-api-3a070398750f<br>
 ![rest-api-model](https://github.com/danielurra/node-first-api/assets/51704179/5bd63cf9-26ac-4170-983e-ed52a6a70111)<br>
 **REST** is based on HTTP methods and URL structure.
 ## Main JavaScript file index.js
+Let's use `npm` to install three packages at the same time and `--save` to properly update the **package.json** file<br>
+```bash
+npm i express mongoose nodemon --save
+```
 ![index-js-file](https://github.com/danielurra/node-first-api/assets/51704179/0bc372fa-937b-4f37-9740-aa4e85d2e993)<br>
 ## Run your "node" app
 ```bash
