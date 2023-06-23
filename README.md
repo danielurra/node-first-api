@@ -60,7 +60,7 @@ The above command will not only install the package it will also add the followi
  "jest": "^24.9.0"
  }
 ```
-## Install packages
+## Installing needed packages
 Let's use `npm` to install three packages at the same time and `--save` to properly update the **package.json** file<br>
 ```bash
 npm i express mongoose nodemon --save
