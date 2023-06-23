@@ -29,11 +29,6 @@ The interactive tool is launched when you **initalize your project** by using th
 ```bash
 npm init
 ```
-## Install packages
-Let's use `npm` to install three packages at the same time and `--save` to properly update the **package.json** file<br>
-```bash
-npm i express mongoose nodemon --save
-```
 ## Package.json file
 The `package.json` file will be automatically created after a short interactive tool that will ask you to enter info related to the App you're creating, things like:<br>
 * Author's Name
@@ -42,7 +37,7 @@ The `package.json` file will be automatically created after a short interactive 
 * Define **Dependencies** (other software needed for the App to properly work)
 * Define `custom commands or scripts` these scripts can be run by using NPM (npm run Blablabla)
 * Etc.
-
+![package-json](https://github.com/danielurra/node-first-api/assets/51704179/ddabbd88-3ad6-4653-86c1-9a1fb5c520ef)<br>
 ## Dependencies & devDependencies
 See examples below:<br>
 ```bash
@@ -63,13 +58,11 @@ The above command will not only install the package it will also add the followi
  "jest": "^24.9.0"
  }
 ```
-  
-The interactive tool is launched when you **initalize your project** by using the following command:<br>
+## Install packages
+Let's use `npm` to install three packages at the same time and `--save` to properly update the **package.json** file<br>
 ```bash
-npm init
+npm i express mongoose nodemon --save
 ```
-![package-json](https://github.com/danielurra/node-first-api/assets/51704179/ddabbd88-3ad6-4653-86c1-9a1fb5c520ef)<br>
-
 ## Main JavaScript file index.js
 ![index-js-file](https://github.com/danielurra/node-first-api/assets/51704179/0bc372fa-937b-4f37-9740-aa4e85d2e993)<br>
 ## Run your "node" app
