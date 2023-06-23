@@ -24,7 +24,7 @@ https://medium.com/nerd-for-tech/designing-a-rest-api-3a070398750f<br>
 ![rest-api-model](https://github.com/danielurra/node-first-api/assets/51704179/5bd63cf9-26ac-4170-983e-ed52a6a70111)<br>
 **REST** is based on HTTP methods and URL structure.
 ## Project Initialization
-Navigate your directory structure until you reach your project folder, then initialize your project<br>
+Navigate your directory structure until you reach your project folder, you are now ready to initialize your project.<br>
 An interactive tool is launched when you **initalize your project** by using the following command:<br>
 ```bash
 npm init
