@@ -34,6 +34,42 @@ Let's use `npm` to install three packages at the same time and `--save` to prope
 ```bash
 npm i express mongoose nodemon --save
 ```
+## Package.json file
+The `package.json` file will be automatically created after a short interactive tool that will ask you to enter info related to the App you're creating, things like:<br>
+* Author's Name
+* App version
+* Type of Licence
+* Define **Dependencies** (other software needed for the App to properly work)
+* Define `custom commands or scripts` these scripts can be run by using NPM (npm run Blablabla)
+* Etc.
+
+## Dependencies & devDependencies
+See examples below:<br>
+```bash
+npm install express --save
+```
+The above command will not only install the package it will also add the following to the `package.json` file:<br>
+```bash
+"dependencies": {
+ "express": "^3.4.11"
+ }
+ ```
+```bash
+npm install jest --save-dev
+```
+The above command will not only install the package it will also add the following to the `package.json` file:<br>
+```bash
+"devDependencies": {
+ "jest": "^24.9.0"
+ }
+```
+  
+The interactive tool is launched when you **initalize your project** by using the following command:<br>
+```bash
+npm init
+```
+![package-json](https://github.com/danielurra/node-first-api/assets/51704179/ddabbd88-3ad6-4653-86c1-9a1fb5c520ef)<br>
+
 ## Main JavaScript file index.js
 ![index-js-file](https://github.com/danielurra/node-first-api/assets/51704179/0bc372fa-937b-4f37-9740-aa4e85d2e993)<br>
 ## Run your "node" app
@@ -90,41 +126,6 @@ We never use a simple file in a **real world** scenario, we use Databases instea
 }
 
 ```
-## Package.json file
-The `package.json` file will be automatically created after a short interactive tool that will ask you to enter info related to the App you're creating, things like:<br>
-* Author's Name
-* App version
-* Type of Licence
-* Define **Dependencies** (other software needed for the App to properly work)
-* Define `custom commands or scripts` these scripts can be run by using NPM (npm run Blablabla)
-* Etc.
-
-## Dependencies & devDependencies
-See examples below:<br>
-```bash
-npm install express --save
-```
-The above command will not only install the package it will also add the following to the `package.json` file:<br>
-```bash
-"dependencies": {
- "express": "^3.4.11"
- }
- ```
-```bash
-npm install jest --save-dev
-```
-The above command will not only install the package it will also add the following to the `package.json` file:<br>
-```bash
-"devDependencies": {
- "jest": "^24.9.0"
- }
-```
-  
-The interactive tool is launched when you **initalize your project** by using the following command:<br>
-```bash
-npm init
-```
-![package-json](https://github.com/danielurra/node-first-api/assets/51704179/ddabbd88-3ad6-4653-86c1-9a1fb5c520ef)<br>
 ## Server response - JSON data
 I had to install one browser extension to get the Json data properly formatted.<br>
 For Google Chrome I did install the extension available at:<br>
