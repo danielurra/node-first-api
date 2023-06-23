@@ -38,6 +38,7 @@ The `package.json` file will be automatically created after a short interactive 
 * Define **Dependencies** (other software needed for the App to properly work)
 * Define `custom commands or scripts` these scripts can be run by using NPM (npm run Blablabla)
 * Etc.
+  
 ![package-json](https://github.com/danielurra/node-first-api/assets/51704179/ddabbd88-3ad6-4653-86c1-9a1fb5c520ef)<br>
 ## Dependencies & devDependencies
 See examples below:<br>
