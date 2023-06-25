@@ -20,13 +20,13 @@
 If you'd like to learn more about REST API and how to build one I do recommend you to take a look at the following blog:
 https://medium.com/nerd-for-tech/designing-a-rest-api-3a070398750f<br>
 **Dick Dowdell** has created such a fantastic article.<br>
+![rest-api-model](https://github.com/danielurra/node-first-api/assets/51704179/5bd63cf9-26ac-4170-983e-ed52a6a70111)<br>
+**REST** is based on HTTP methods and URL structure.
 ## Asynchronous programming
 Node.js code (and browser JavaScript) runs on a single processing thread. Long-running tasks such as a database query are processed asynchronously, which doesn’t halt execution.<br>
 The task runs in the background, and Node.js continues to the next command. When the task is complete, the returned data is passed to a callback function.<br> 
 A Node.js program can have many hundreds of ongoing operations that are completed whenever they’re finished, meaning that the processor is free to tackle other tasks.<br>
 
-![rest-api-model](https://github.com/danielurra/node-first-api/assets/51704179/5bd63cf9-26ac-4170-983e-ed52a6a70111)<br>
-**REST** is based on HTTP methods and URL structure.
 ## Project Initialization
 Navigate your directory structure until you reach your project's folder, you are now ready to initialize your project.<br>
 At this point in time both, **node** and **npm** must be already installed in your system.<br>
