@@ -61,8 +61,12 @@ The above command will not only install the package it will also add the followi
  }
 ```
 ## Node managing multiple versions
-Node Version Manager (nvm) is a tool that allows multiple editions of Node.js to be installed on the same Linux, macOS, or Windows
-WSL system. This can be practical if you’re working on two or more projects using different versions of Node.js<br>
+**Node Version Manager** (nvm) is a tool that allows multiple editions of Node.js to be installed on the same Operating System:
+* Linux
+* macOS
+* Windows WSL
+
+This can be practical if you’re working on two or more projects using different versions of Node.js<br>
 https://github.com/nvm-sh/nvm
 ## Installing needed packages
 Let's use `npm` to install three packages at the same time and `--save` to properly update the **package.json** file<br>
