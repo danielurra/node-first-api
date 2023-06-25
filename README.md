@@ -61,6 +61,7 @@ The above command will not only install the package it will also add the followi
  }
 ```
 ## Node managing multiple versions
+![nvm-white-background](https://github.com/danielurra/node-first-api/assets/51704179/256955e8-1745-4014-8914-5fba85f123b8)<br>
 **Node Version Manager** (nvm) is a tool that allows multiple editions of Node.js to be installed on the same Operating System:
 * Linux
 * macOS
