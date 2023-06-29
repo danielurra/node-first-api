@@ -36,9 +36,8 @@ An interactive tool is launched when you issue the following command:<br>
 npm init
 ```
 ## Package.json file
-![package json-600x160px](https://github.com/danielurra/node-first-api/assets/51704179/73b3aca1-9563-4f34-8ebb-258b4abfd343)<br>
+![package json-size-600x160px](https://github.com/danielurra/node-first-api/assets/51704179/411c2f4c-c482-49af-8f2f-c0a5c15fa4f0)<br>
 
-![package json](https://github.com/danielurra/node-first-api/assets/51704179/35f32019-8ec0-47de-8ff3-26f8099f68ec)<br>
 
 The `package.json` file will be automatically created after a short interactive tool that will ask you to enter info related to the App you're creating, things like:<br>
 * Author's Name
