@@ -89,6 +89,10 @@ npm i express mongoose nodemon --save
 ```bash
 node ./index.js
 ```
+## Close your "node" app
+```bash
+Ctrl + C
+```
 ## Code with comments - grab the code w/o comments from the repo folder
 ```javascript
 // First, we begin by importing the needed Node.js modules
