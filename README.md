@@ -1,15 +1,15 @@
 # JavaScript Backend
 ![rest-api-node-plus-express_js-Dani](https://github.com/danielurra/node-first-api/assets/51704179/36235412-fc5a-48b6-83b9-e1acb697033f)<br>
 ## Let's build our first API
-  **Node.js** is not a Programming language it's a runtime environment that interprets JavaScript code.<br>
-  **Node.js** was built on Google Chrome's V8 JavaScript engine, and because of that it allows JavaScript to do what C++ can do.<br>
-  **Node.js** is a server-side scripting language that allows us to run JavaScript outside the browser.<br>
-  **Node.js** uses `JavaScript’s asynchronous programming paradigm.`<br>
-  **Node.js** uses an event-driven, non-blocking I/O model, allowing it to handle multiple requests without getting blocked.<br>
-  **Node.js** is single-threaded, instead of separate processes and threads, it uses asynchronous, event-driven I/O operations.<br>
-  **Node.js** is known for its efficiency and scalability, it can handle a large number of concurrent connections.<br>
-  **Node.js** is ideal for apps that require real-time interactions, such as chat, collaboration, and games.<br>
-  **Node.js** is a multitasker that can juggle many operations at once, thanks to its non-blocking I/O magic.<br>
+  * **Node.js** is not a Programming language it's a runtime environment that interprets JavaScript code.<br>
+    **Node.js** was built on Google Chrome's V8 JavaScript engine, and because of that it allows JavaScript to do what C++ can do.<br>
+    **Node.js** is a server-side scripting language that allows us to run JavaScript outside the browser.<br>
+    **Node.js** uses `JavaScript’s asynchronous programming paradigm.`<br>
+    **Node.js** uses an event-driven, non-blocking I/O model, allowing it to handle multiple requests without getting blocked.<br>
+    **Node.js** is single-threaded, instead of separate processes and threads, it uses asynchronous, event-driven I/O operations.<br>
+    **Node.js** is known for its efficiency and scalability, it can handle a large number of concurrent connections.<br>
+    **Node.js** is ideal for apps that require real-time interactions, such as chat, collaboration, and games.<br>
+    **Node.js** is a multitasker that can juggle many operations at once, thanks to its non-blocking I/O magic.<br>
   Take a look at the following article if you want to learn more about node:<br>
   https://www.cronj.com/blog/node-js-non-blocking-asynchronous-blocking-synchronous/
 * **Express.js** is a `minimal framework` especially useful for writing RESTful API code.<br>
