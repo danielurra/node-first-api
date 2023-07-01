@@ -1,7 +1,8 @@
 # JavaScript Backend
 ![rest-api-node-plus-express_js-Dani](https://github.com/danielurra/node-first-api/assets/51704179/36235412-fc5a-48b6-83b9-e1acb697033f)<br>
 ## Let's build our first API
-* **Node.js** is a runtime built on Google Chrome's V8 JavaScript engine.<br>
+  **Node.js** is not a Programming language it's a runtime environment that interprets JavaScript code.<br>
+  **Node.js*** was built on Google Chrome's V8 JavaScript engine, and because of that it allows JavaScript to do what C++ can do.<br>
   **Node.js** is a server-side scripting language that allows us to run JavaScript outside the browser.<br>
   **Node.js** uses `JavaScript’s asynchronous programming paradigm.`<br>
   **Node.js** uses an event-driven, non-blocking I/O model, allowing it to handle multiple requests without getting blocked.<br>
