@@ -34,6 +34,10 @@ Navigate your directory structure until you reach your project's folder, you are
 At this point in time both, **node** and **npm** must be already installed in your system.<br>
 An interactive tool is launched when you issue the following command:<br>
 ```bash
+npm init
+```
+Use `--yes` to auto reply to all and speed up the process a little bit<br>
+```bash
 npm init --yes
 ```
 ## Package.json file
