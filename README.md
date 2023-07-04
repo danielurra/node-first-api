@@ -34,7 +34,7 @@ Navigate your directory structure until you reach your project's folder, you are
 At this point in time both, **node** and **npm** must be already installed in your system.<br>
 An interactive tool is launched when you issue the following command:<br>
 ```bash
-npm init
+npm init --yes
 ```
 ## Package.json file
 ![package json-size-600x160px](https://github.com/danielurra/node-first-api/assets/51704179/411c2f4c-c482-49af-8f2f-c0a5c15fa4f0)<br>
