@@ -1,6 +1,6 @@
 # JavaScript Backend - Let's build our first API
 ![rest-api-node-plus-express_js-Dani](https://github.com/danielurra/node-first-api/assets/51704179/36235412-fc5a-48b6-83b9-e1acb697033f)<br>
-## What are Node.js and Express.js?
+## What are Node.js, Express.js and REST APIs?
   * **Node.js** is not a Programming language it's a runtime environment that interprets JavaScript code.<br>
     **Node.js** was built on Google Chrome's V8 JavaScript engine, and because of that it allows JavaScript to do what C++ can do.<br>
     **Node.js** is a server-side scripting language that allows us to run JavaScript outside the browser.<br>
