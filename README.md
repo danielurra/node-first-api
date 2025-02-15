@@ -12,6 +12,7 @@
     **Node.js** is a multitasker that can juggle many operations at once, thanks to its non-blocking I/O magic.<br>
   Take a look at the following article if you want to learn more about node:<br>
   https://www.cronj.com/blog/node-js-non-blocking-asynchronous-blocking-synchronous/
+![the-juggler](https://github.com/user-attachments/assets/4955ee5a-943f-456b-9804-4b5302cda5fc)<br>
 * **Express.js** is a `minimal framework` especially useful for writing RESTful API code.<br>
   **Express.js** offers a broad set of APIs, HTTP methods, and middleware that modern web applications need.<br>
   **Express.js** helps developers to eliminates a lot of boilerplate-type code from their application code.<br>
