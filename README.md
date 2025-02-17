@@ -32,7 +32,7 @@ A **Node.js** program can have many hundreds of ongoing operations that are comp
 ## Project purpose
 This is a simple `Node.js` application using the `Express.js` **framework**. It creates a web server that listens for **HTTP GET** requests at<br>
 the /pending_tasks endpoint and responds with the contents of a JSON file (ptasks.json).<br>
-![google-chrome-dev-tools](https://github.com/user-attachments/assets/f7314205-af3d-45cf-9397-1ac3c0c57a41)
+![google-chrome-dev-tools](https://github.com/user-attachments/assets/f7314205-af3d-45cf-9397-1ac3c0c57a41)<br>
 
 ## Project Initialization
 Navigate your directory structure until you reach your project's folder, you are now ready to initialize your project.<br>
