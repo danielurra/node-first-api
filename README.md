@@ -84,7 +84,7 @@ The above command will not only install the package it will also add the followi
 This can be practical if you’re working on two or more projects using different versions of **Node.js**<br>
 https://github.com/nvm-sh/nvm
 ## Installing needed packages
-Let's use `npm` to install three packages at the same time and `--save` to properly update the **package.json** file<br>
+Let's now use `npm` to install the `Express` package and at the same time and `--save` to properly update the **package.json** file<br>
 ```bash
 npm i express --save
 ```
