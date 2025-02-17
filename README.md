@@ -41,7 +41,7 @@ An interactive tool is launched when you issue the following command:<br>
 ```bash
 npm init --yes
 ```
-Use `--yes` to auto reply to all and speed up the process a little bit<br>
+Here we are using `--yes` to auto reply to all and speed up the process a little bit<br>
 
 ## Package.json file
 ![package json-size-600x160px](https://github.com/danielurra/node-first-api/assets/51704179/411c2f4c-c482-49af-8f2f-c0a5c15fa4f0)<br>
