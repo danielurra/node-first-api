@@ -29,7 +29,9 @@ https://medium.com/nerd-for-tech/designing-a-rest-api-3a070398750f<br>
 Long-running tasks such as a database query are processed `asynchronously`, which doesn’t halt execution.<br>
 The task runs in the background, and **Node.js** continues to the next command. When the task is complete, the returned data is passed to a `callback function`.<br> 
 A **Node.js** program can have many hundreds of ongoing operations that are completed whenever they’re finished, meaning that the processor is free to tackle other tasks.<br>
-
+## Project purpose
+This is a simple `Node.js` application using the `Express.js` **framework**. It creates a web server that listens for HTTP GET requests at<br>
+the /pending_tasks endpoint and responds with the contents of a JSON file (ptasks.json).
 ## Project Initialization
 Navigate your directory structure until you reach your project's folder, you are now ready to initialize your project.<br>
 At this point in time both, **node** and **npm** must be already installed in your system.<br>
