@@ -30,7 +30,7 @@ Long-running tasks such as a database query are processed `asynchronously`, whic
 The task runs in the background, and **Node.js** continues to the next command. When the task is complete, the returned data is passed to a `callback function`.<br> 
 A **Node.js** program can have many hundreds of ongoing operations that are completed whenever they’re finished, meaning that the processor is free to tackle other tasks.<br>
 ## Project purpose
-This is a simple `Node.js` application using the `Express.js` **framework**. It creates a web server that listens for HTTP GET requests at<br>
+This is a simple `Node.js` application using the `Express.js` **framework**. It creates a web server that listens for **HTTP GET** requests at<br>
 the /pending_tasks endpoint and responds with the contents of a JSON file (ptasks.json).
 ![google-chrome-dev-tools](https://github.com/user-attachments/assets/f7314205-af3d-45cf-9397-1ac3c0c57a41)
 
