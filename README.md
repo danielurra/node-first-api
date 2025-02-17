@@ -86,7 +86,7 @@ https://github.com/nvm-sh/nvm
 ## Installing needed packages
 Let's use `npm` to install three packages at the same time and `--save` to properly update the **package.json** file<br>
 ```bash
-npm i express mongoose nodemon --save
+npm i express --save
 ```
 ## Main JavaScript file index.js
 ![index-js-file](https://github.com/danielurra/node-first-api/assets/51704179/0bc372fa-937b-4f37-9740-aa4e85d2e993)<br>
